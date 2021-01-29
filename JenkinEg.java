@@ -4,7 +4,7 @@ public class JenkinEg {
   // TODO Auto-generated method stub
     System.out.println("Hello Nazeem");
     System.out.println("Hello Sudhir");
-      System.out.println("How r u");
+      System.out.println("Hi");
 
 
  }
